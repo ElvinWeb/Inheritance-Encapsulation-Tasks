@@ -13,8 +13,8 @@
             Console.WriteLine(Capitalize(strVal));
 
         }
-
-        static string Capitalize(string word)
+         //first solution
+        static string Capitalize1(string word)
         {
             string capitalWord = "";
             word = word.Trim();
@@ -32,6 +32,20 @@
                 }
             }
             return capitalWord;
+        }
+         //second solution
+        static string Capitalize2(string word)
+        {
+            char firstChar = word[0];
+            int asciiVal = (int)firstChar;
+
+            if (asciiVal >= 97 && asciiVal <= 122)
+            {
+                char capitalizedChar = (char)(asciiVal - 32);
+                word = capitalizedChar + word.Substring(1);
+            }
+
+            return word;
         }
     }
 }
