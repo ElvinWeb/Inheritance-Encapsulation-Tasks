@@ -10,7 +10,7 @@
 
 
             string strVal = Console.ReadLine();
-            Console.WriteLine(Capitalize(strVal));
+            Console.WriteLine(Capitalize2(strVal));
 
         }
          //first solution
