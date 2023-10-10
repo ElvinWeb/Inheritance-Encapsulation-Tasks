@@ -1,0 +1,14 @@
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\bin\Debug\net6.0\EncapsulationAndInheritanceTasks.exe
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\bin\Debug\net6.0\EncapsulationAndInheritanceTasks.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\bin\Debug\net6.0\EncapsulationAndInheritanceTasks.runtimeconfig.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\bin\Debug\net6.0\EncapsulationAndInheritanceTasks.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\bin\Debug\net6.0\EncapsulationAndInheritanceTasks.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\obj\Debug\net6.0\EncapsulationAndInheritanceTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\obj\Debug\net6.0\EncapsulationAndInheritanceTasks.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\obj\Debug\net6.0\EncapsulationAndInheritanceTasks.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\obj\Debug\net6.0\EncapsulationAndInheritanceTasks.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\obj\Debug\net6.0\EncapsulationAndInheritanceTasks.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\obj\Debug\net6.0\refint\EncapsulationAndInheritanceTasks.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\obj\Debug\net6.0\EncapsulationAndInheritanceTasks.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\obj\Debug\net6.0\EncapsulationAndInheritanceTasks.genruntimeconfig.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\EncapsulationAndInheritanceTasks\EncapsulationAndInheritanceTasks\obj\Debug\net6.0\ref\EncapsulationAndInheritanceTasks.dll
